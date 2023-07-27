@@ -7,5 +7,5 @@
 ## Reporting a Vulnerability
 
 To report a security vulnerability you can email me at: [eTmullall@outlook.com](mailto:eTmullall@outlook.com)
-From september - July I may respond a little late because I'm usually at work then. Work for me ends around 2:30pm 
-I'll reply to you right away if I have the time to 
+From September - July I may respond a little late because I'm usually at school then. School for me ends around 2:30pm 
+I'll reply to you right away if I have the time to.
