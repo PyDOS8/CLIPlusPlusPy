@@ -45,7 +45,7 @@ To use CLI++Py you can use these basic commands:
 
 
 # How can i report bugs?
-If you know C++ and Python you can edit the code without perimission otherwise you can report bugs at [Github's Issues page](https://github.com/pytutorials/CLIPlusPlusPy/issues) IF you don't have a Github account [email](mailto:eTmullall@oulook.com) me
+If you know C++ and Python you can edit the code without perimission otherwise you can report bugs at [Github's Issues page](https://github.com/pytutorials/CLIPlusPlusPy/issues) IF you don't have a Github account [Create one](https://github.com)
 
 [License](https://github.com/clipyplusplus/CLIPlusPlusPy/blob/Version-1/LICENSE)
 [Secuity Policy](https://github.com/clipyplusplus/CLIPlusPlusPy/blob/Version-1/SECURITY.md)
