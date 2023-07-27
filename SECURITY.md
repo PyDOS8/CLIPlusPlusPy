@@ -6,6 +6,4 @@
 
 ## Reporting a Vulnerability
 
-To report a security vulnerability you can email me at: [eTmullall@outlook.com](mailto:eTmullall@outlook.com)
-From September - June or any holiday I may respond a little late because I'm usually at school/out with family then. School for me ends around 2:30pm 
-I'll reply to you right away if I have the time to.
+To report a security vulnerability you can just the code (Any code added will be reviewed by AI)
