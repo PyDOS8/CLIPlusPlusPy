@@ -6,4 +6,4 @@
 
 ## Reporting a Vulnerability
 
-To report a security vulnerability you can just the code (Any code added will be reviewed by AI)
+To report a security vulnerability you can just the code (Any code added will be reviewed by AI) or go to the Github issues page
