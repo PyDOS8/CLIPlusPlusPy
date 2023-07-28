@@ -50,3 +50,6 @@ If you know C++ and Python you can edit the code without perimission otherwise y
 
 [License](https://github.com/clipyplusplus/CLIPlusPlusPy/blob/Version-1/LICENSE)
 [Secuity Policy](https://github.com/clipyplusplus/CLIPlusPlusPy/blob/Version-1/SECURITY.md)
+
+
+### Please make sure to scan this or any other software you download with a safe antivirus to insure it is safe
