@@ -43,8 +43,7 @@ To use CLI++Py you can use these basic commands:
 1. Download [Python](https://python.org)
 
 # What Operating SystemS(OS) does CLI++Py support?
-* Windows
-
+* Windows or any other operating system if you know C++, Python and how to use your own pre-installed terminal.
 
 # How can i report bugs?
 If you know C++ and Python you can edit the code without perimission otherwise you can report bugs at [Github's Issues page](https://github.com/pytutorials/CLIPlusPlusPy/issues) IF you don't have a Github account [Create one](https://github.com)
