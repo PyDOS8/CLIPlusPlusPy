@@ -36,6 +36,8 @@ To use CLI++Py you can use these basic commands:
 * rename to rename files 17
 * title to change the title 18
 * netstat to display information about active network connections
+* edit_code to edit the code of CLI++Py on your computer
+
 
 # How to use CLI++Py correctly?
 1. Download [Python](https://python.org)
