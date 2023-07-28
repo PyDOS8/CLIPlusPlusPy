@@ -12,7 +12,7 @@ int main(){
     for(int i = 0; i < 21; i++){
         if(command == commands[i]){
             if(command == "help" || command == "/?"{
-                for(int i = 0; i < 20; i++){
+                for(int i = 0; i < 21; i++){
                     cout << commands[i] << endl;
                 }
                 main();
