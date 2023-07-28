@@ -41,7 +41,7 @@ To use CLI++Py you can use these basic commands:
 
 # How to use CLI++Py correctly?
 1. Download [Python](https://python.org)
-
+2. Get a C++ compiler that supports your computer (Please make sure the software is safe so you don't get a virus)
 # What Operating SystemS(OS) does CLI++Py support?
 * Windows or any other operating system if you know C++, Python and how to use your own pre-installed terminal.
 
