@@ -57,4 +57,5 @@ CLI++Py may be flagged as a virus by some antivirus software due to its interact
 I also have github security setup to insure that the code has no vunerablities or any malicious code go to [the security section for proof](https://github.com/clipyplusplus/CLIPlusPlusPy/security)
 So, if any malicious code gets uploaded it will tell me about it and i will fix it and tell you about it in the issues page right away so be sure to check it weekly! also, there will be constant code review with trusted AI to insure that the code is secure
 
-Also, please do not download the login.py file as you do not need it and doesn't have proper security yet.
+Also, please do not download the login.py file as you do not need it.
+One last thing the login.py file is now secure when saving data
