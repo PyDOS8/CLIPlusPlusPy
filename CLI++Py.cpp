@@ -4,12 +4,12 @@
 #include <cstdlib>
 using namespace std;
 int main(){
-    string commands[20]= {"run", "netstat" "title", "rename", "/?", "mkdir", "change_dir", "del", "help", "exit", "output", "iscmd", "ping", "get_ip", "ipconfig", "listdir", "write_file", "listfile", "python", "file_exists"};
+    string commands[21]= {"run", "edit_code", "netstat" "title", "rename", "/?", "mkdir", "change_dir", "del", "help", "exit", "output", "iscmd", "ping", "get_ip", "ipconfig", "listdir", "write_file", "listfile", "python", "file_exists"};
     string command;
     printf("Type help to get a list of commands \n");
     printf("CLI++Py > ");
     cin >> command;
-    for(int i = 0; i < 20; i++){
+    for(int i = 0; i < 21; i++){
         if(command == commands[i]){
             if(command == "help" || command == "/?"{
                 for(int i = 0; i < 20; i++){
@@ -150,7 +150,11 @@ int main(){
                 string cmd = "netstat " + stat;
                 system(cmd.c_str());
             }
-        }else if(i > 20){
+            if(command == "edit_code"){
+                string cmd = "notepad ClI++Py.cpp";
+                system(cmd.c_str());
+            }
+        }else if(i > 21){
             cout << "Invalid Command! The commands that exist are: " << endl;
             for(int i = 0; i < 20; i++){
                 cout << commands[i] << endl;
