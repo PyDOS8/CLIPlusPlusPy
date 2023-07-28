@@ -1,4 +1,4 @@
-import cyptography.fernet
+from cyptography.fernet import Fernet
 import os
 filedir = input("Enter a file or directory > ")
 if os.path.exists(filedir):
