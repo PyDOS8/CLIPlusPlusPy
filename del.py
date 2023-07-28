@@ -1,17 +1,22 @@
-"""
-1. Get user to enter a file or directory
-2. Check if the file/folder exists
-3. Check if the file/folder is a file or folder
-4. If the it's a folder delete it
-5. It's a file and get's deleted
-6. The file wasn't found tell the user the file/directory doesn't exist
-"""
+import cyptography.fernet
 import os
 filedir = input("Enter a file or directory > ")
 if os.path.exists(filedir):
   if os.path.isdir(filedir):
-    os.removedirs(filedir)
+    with open("key.key", "rb") as key_file:
+      encrypted_password = key_file.read()
+      password = input("Enter you password > ").encode()
+      decrypted_password = fernet.decrypt(encypted_password)
+      if password == decrypted_password:
+        os.removedirs(filedir)
+      else:
+        print("Access Denied!")
   else:
-    os.remove(filedir)
-else:
-  print("The file/directory doesn't exist!")
+    with open("key.key" ) as key_file:
+      encrypted_password = key_file.read()
+      password = input("Enter your password > ").encode()
+      decrypted_password = fernet.decrypt(encrypted_password)
+      if password == decrypted_password:
+        os.remove(filedir)
+      else:
+        print("Access Denied")
