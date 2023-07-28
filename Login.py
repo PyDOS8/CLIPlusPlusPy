@@ -2,7 +2,7 @@ import os
 from cryptography.fernet import Fernet
 def user():
     if not os.path.exists("username.txt"):
-        os.system("CLI++Py.exe")
+        os.system("start CLI++Py.exe")
     else:
         username = input("Create a username > ")
         key = Fernet.generate_key() # Generates a key
