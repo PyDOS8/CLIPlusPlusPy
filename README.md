@@ -48,13 +48,12 @@ To use CLI++Py you can use these basic commands:
 # How can i report bugs?
 If you know C++ and Python you can edit the code without perimission otherwise you can report bugs at [Github's Issues page](https://github.com/pytutorials/CLIPlusPlusPy/issues) IF you don't have a Github account [Create one](https://github.com)
 
-[License](https://github.com/clipyplusplus/CLIPlusPlusPy/blob/Version-1/LICENSE)
-[Secuity Policy](https://github.com/clipyplusplus/CLIPlusPlusPy/blob/Version-1/SECURITY.md)
-
-
 ### Please make sure to scan this or any other software you download with a safe antivirus to insure it is safe
 CLI++Py may be flagged as a virus by some antivirus software due to its interaction with the command line interface, which can sometimes trigger false alarms. However, we assure you that CLI++Py is not a virus and is completely safe to use. We have taken all necessary measures to ensure the safety and security of the program, including regular code reviews and testing. We understand that the safety of your computer is of utmost importance, and we would never put our users at risk. If you have any concerns or questions, please don't hesitate to report this issue here: [Github Issues](https://github.com/clipyplusplus/CLIPlusPlusPy/issues)
 I also have github security setup to insure that the code has no vunerablities or any malicious code go to [the security section for proof](https://github.com/clipyplusplus/CLIPlusPlusPy/security)
 So, if any malicious code gets uploaded it will tell me about it and i will fix it and tell you about it in the issues page right away so be sure to check it weekly! also, there will be constant code review with trusted AI to insure that the code is secure
 
 One last thing now you you need the Login.py file
+
+[License](https://github.com/clipyplusplus/CLIPlusPlusPy/blob/Version-1/LICENSE)
+[Secuity Policy](https://github.com/clipyplusplus/CLIPlusPlusPy/blob/Version-1/SECURITY.md)
