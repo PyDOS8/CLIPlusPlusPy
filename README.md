@@ -64,7 +64,7 @@ CLI++Py may be flagged as a virus by some antivirus software due to its interact
 
 If you want any improvements, go to the [GitHub issues page.](https://github.com/clipyplusplus/clipluspluspy/issues)
 
-To show your support please star the project.
+To show your support please ⭐ the project.
 
 One last thing, now you need the Login.py file.
 
