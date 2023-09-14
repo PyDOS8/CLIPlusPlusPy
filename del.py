@@ -5,7 +5,7 @@ def user():
     if os.path.exists("password.txt"):
         with open("key.key", "rb") as rf:
           key = rf.read()  
-        f = Fernet(key)
+          f = Fernet(key)
         with open("password.txt", "rb") as password_file:
             encrypted_data = password_file.read()
             user_password = f.decrypt(encrypted_data).decode()
